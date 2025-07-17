@@ -1,5 +1,5 @@
 // Header 코드
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header&text=🐰%20tami-bang의%20클라우드%20☁️ )
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=🐰%20tami-bang의%20클라우드%20☁️ )
 
 <!--
 **tami-bang/tami-bang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
