@@ -24,19 +24,20 @@
 
 <br>
 
-<h3 align="center">🍎 GitHub Readme Stats 🍎</h3>
-<div align="center">
-  
-![Tami-bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tami-bang&show_icons=true&theme=radical)
-
-</div>
-
-<br>
 
 <h3 align="center">🗣️ Top Languages Card 🗣️</h3>
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+</div>
+
+<br>
+
+<h3 align="center">🍎 GitHub Readme Stats 🍎</h3>
+<div align="center">
+  
+![Tami-bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tami-bang&show_icons=true&theme=radical)
 
 </div>
 
