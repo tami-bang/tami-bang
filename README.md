@@ -1,4 +1,3 @@
-// Header 코드
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&color=#FFB2B2&height=300&section=header&text=tami-bang의%20클라우드%20☁️ )
 
 <!--
