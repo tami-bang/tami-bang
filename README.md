@@ -50,3 +50,4 @@
   </a>
 </div>
 
+<style type="text/css">* {cursor: url(https://ani.cursors-4u.net/symbols/sym-8/sym760.ani), url(https://ani.cursors-4u.net/symbols/sym-8/sym760.png), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2014/03/25/grey-spinning-heart-within-a-heart.html" target="_blank" title="Grey Spinning Heart Within A Heart"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="Grey Spinning Heart Within A Heart" style="position:absolute; top: 0px; right: 0px;" /></a>
