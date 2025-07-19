@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=FFFFFF&background=000000&width=500&height=90&lines=Tami-bang%E2%80%99s+Dev+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=000000&background=FFFFFF&width=500&height=90&lines=Tami-bang%E2%80%99s+Dev+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
   </a>
 </p>
 
