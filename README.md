@@ -5,6 +5,8 @@
   </a>
 </p>
 
+<br><br>
+
 <!-- 학습 내용 -->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -13,7 +15,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
-<br>
+<br><br>
 
 <!-- 도구 -->
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -23,7 +25,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<br>
+<br><br>
 
 <!-- Top Languages -->
 <h3 align="center">🗣️ Top Languages Card 🗣️</h3>
@@ -31,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tami-bang&layout=compact" alt="Top Languages"/>
 </div>
 
-<br>
+<br><br>
 
 <!-- GitHub Stats -->
 <h3 align="center">🍎 GitHub Readme Stats 🍎</h3>
@@ -39,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tami-bang&show_icons=true&theme=radical" alt="Tami-bang's GitHub stats"/>
 </div>
 
-<br>
+<br><br>
 
 <!-- 연락처 -->
 <h3 align="center">📫 Contact 📫</h3>
@@ -49,7 +51,7 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
 <!-- GitAnimals -->
 <div align="center">
@@ -57,3 +59,5 @@
     <img src="https://render.gitanimals.org/lines/tami-bang?pet-id=1" width="300" height="200"/>
   </a>
 </div>
+
+<br><br>
