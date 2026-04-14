@@ -138,14 +138,16 @@
 
 ## 📫 Contact
 
-<div align="center">
+<div>
 
 <a href="mailto:vjihyunbangv@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<b>📧 vjihyunbangv@gmail.com</b>
+
 <br/>
 
-📧 vjihyunbangv@gmail.com
+💬 Feel free to reach out anytime.
 
 </div>
