@@ -139,7 +139,13 @@
 ## 📫 Contact
 
 <div align="center">
-  <a href="mailto:vjihyunbangv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="mailto:vjihyunbangv@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+
+📧 vjihyunbangv@gmail.com
+
 </div>
