@@ -32,9 +32,9 @@
 </tr>
 
 <tr>
-  <td><b>🤖 Job Crawler</b></td>
-  <td>채용 데이터 수집 자동화</td>
-  <td>Python</td>
+  <td><b>🤖 JobKorea Job Radar</b></td>
+  <td>잡코리아 공고 수집, 개인 맞춤 점수화, CSV/XLSX 리포트 자동화</td>
+  <td>Python · Selenium · SQLite · Pandas</td>
   <td><a href="https://github.com/tami-bang/job_crawler">🔗 Repo</a></td>
 </tr>
 
