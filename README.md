@@ -16,7 +16,7 @@
   <a href="https://tami-bang.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-tami--bang.github.io-111111?style=flat-square"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tami-bang&label=visitors&color=ff69b4&style=flat-square" alt="profile visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=tami-bang&label=total%20visitors&color=ff69b4&style=flat-square" alt="total profile visitors"/>
 </p>
 
 ---
