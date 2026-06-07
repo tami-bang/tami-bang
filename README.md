@@ -59,6 +59,19 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tami-bang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=111111&icon_color=ff69b4&text_color=333333&locale=kr" alt="Tami GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tami-bang&layout=compact&langs_count=8&hide_border=true&title_color=111111&text_color=333333" alt="Tami top languages"/>
+</p>
+
+<p align="center">
+  <sub>공개 저장소 기준으로 커밋, 스타, 사용 언어 비율이 자동 업데이트됩니다.</sub>
+</p>
+
+---
+
 ## 🧠 Technical Stack
 
 <table>
