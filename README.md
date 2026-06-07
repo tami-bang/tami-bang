@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3000&pause=1000&color=FF69B4&background=FFFFFF&center=true&vCenter=true&width=720&height=90&lines=Tami+Bang+%7C+AI+%C2%B7+Backend+%C2%B7+Security;Data+%E2%86%92+System+%E2%86%92+Story"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=FF6FAE&center=true&vCenter=true&width=760&height=80&lines=Tami+Bang+%7C+AI+%C2%B7+Backend+%C2%B7+Security;Data+%E2%86%92+System+%E2%86%92+Story"
   />
 </p>
 
