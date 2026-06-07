@@ -63,12 +63,17 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tami-bang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=111111&icon_color=ff69b4&text_color=333333&locale=kr" alt="Tami GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tami-bang&layout=compact&langs_count=8&hide_border=true&title_color=111111&text_color=333333" alt="Tami top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tami-bang&theme=default" alt="Tami GitHub activity graph"/>
 </p>
 
 <p align="center">
-  <sub>공개 저장소 기준으로 커밋, 스타, 사용 언어 비율이 자동 업데이트됩니다.</sub>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tami-bang&theme=default" alt="Tami commit and repository stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tami-bang&theme=default" alt="Tami languages by repository"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tami-bang&theme=default" alt="Tami languages by commit"/>
+</p>
+
+<p align="center">
+  <sub>공개 저장소 기준으로 커밋 활동과 언어별 스택 비율이 자동 업데이트됩니다.</sub>
 </p>
 
 ---
@@ -148,3 +153,17 @@
   </td>
 </tr>
 </table>
+
+---
+
+## 🐾 GitAnimals
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tami-bang&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/tami-bang?cache_bust=1"
+      width="80%"
+      alt="Tami GitAnimals farm"
+    />
+  </a>
+</p>
