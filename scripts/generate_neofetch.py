@@ -38,14 +38,21 @@ STACK = [
     "Next.js",
 ]
 
+BOOT_LOGS = [
+    "공고 데이터를 모아 나에게 맞는 기회를 찾는 중",
+    "작은 자동화를 끝까지 실행 가능한 시스템으로 바꾸는 중",
+    "코드, 기록, 포트폴리오를 한 흐름으로 연결하는 중",
+    "문제를 보면 먼저 파이프라인을 상상하는 중",
+]
+
 ASCII_FALLBACK = [
-    "      _________      ",
-    "   .-'  TAMI   '-.   ",
-    "  /   DATA  AI    \\  ",
-    " |  BACKEND  SEC   | ",
-    " |  BUILD SYSTEMS  | ",
-    "  \\   PORTFOLIO   /  ",
-    "   '-._________.-'   ",
+    "        .-''''-.        ",
+    "      .'  tami  '.      ",
+    "     /  data  ai  \\     ",
+    "    |  backend sec |    ",
+    "    |   build log  |    ",
+    "     \\  portfolio /     ",
+    "      '.________.'      ",
 ]
 
 
@@ -64,7 +71,10 @@ def request_json(url):
 
 
 def request_bytes(url):
-    request = urllib.request.Request(url, headers={"User-Agent": "tami-bang-profile-neofetch"})
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": "tami-bang-profile-neofetch"},
+    )
     with urllib.request.urlopen(request, timeout=30) as response:
         return response.read()
 
@@ -147,7 +157,7 @@ def calculate_age():
     return f"{age}세"
 
 
-def make_ascii_avatar(avatar_url, width=28):
+def make_ascii_avatar(avatar_url, width=36):
     if not avatar_url or Image is None:
         return ASCII_FALLBACK
 
@@ -157,9 +167,9 @@ def make_ascii_avatar(avatar_url, width=28):
     except Exception:
         return ASCII_FALLBACK
 
+    image = crop_square(image)
     chars = "@%#*+=-:. "
-    aspect = image.height / image.width
-    height = max(8, int(width * aspect * 0.48))
+    height = max(13, int(width * 0.52))
     image = image.resize((width, height))
 
     rows = []
@@ -172,15 +182,28 @@ def make_ascii_avatar(avatar_url, width=28):
     return rows
 
 
+def crop_square(image):
+    width, height = image.size
+    side = min(width, height)
+    left = (width - side) // 2
+    top = (height - side) // 2
+    return image.crop((left, top, left + side, top + side))
+
+
 def format_number(value):
     if value is None:
         return "집계중"
     return f"{value:,}"
 
 
+def today_boot_log():
+    index = date.today().toordinal() % len(BOOT_LOGS)
+    return BOOT_LOGS[index]
+
+
 def collect_profile_data():
     user = safe_json(f"{API_ROOT}/users/{USER}", {})
-    avatar_url = user.get("avatar_url") or f"https://github.com/{USER}.png?size=220"
+    avatar_url = user.get("avatar_url") or f"https://github.com/{USER}.png?size=420"
     repos = fetch_all_repos()
     stars = sum(int(repo.get("stargazers_count", 0) or 0) for repo in repos)
     commit_count, additions, deletions = count_commits_and_lines(repos)
@@ -195,7 +218,8 @@ def collect_profile_data():
         "age": calculate_age(),
         "host": "GitHub Profile README",
         "role": "AI · Backend · Security",
-        "uptime": "문제를 시스템으로 바꾸는 중",
+        "mood": "조용히 집요하게, 끝까지 만드는 타입",
+        "boot": today_boot_log(),
         "repos": len(repos) or user.get("public_repos", 0),
         "followers": user.get("followers", 0),
         "stars": stars,
@@ -212,19 +236,21 @@ def collect_profile_data():
 
 def build_terminal_lines(data):
     return [
-        (f"{data['user']}@github", "accent"),
-        ("-" * 31, "muted"),
-        ("OS", "GitHub Profile / neofetch-kor"),
+        (f"{data['user']}@TamiOS", "title"),
+        ("-" * 36, "muted"),
+        ("OS", "TamiOS / profile edition"),
         ("Host", data["host"]),
         ("Name", data["name"]),
         ("Role", data["role"]),
         ("Age", data["age"]),
-        ("Uptime", data["uptime"]),
+        ("Mood", data["mood"]),
+        ("Boot Log", data["boot"]),
         ("Repos", format_number(data["repos"])),
         ("Commits", format_number(data["commits"])),
         ("Stars", format_number(data["stars"])),
         ("Followers", format_number(data["followers"])),
         ("Code Lines", format_number(data["lines"])),
+        ("Main Quest", "데이터를 모아 의사결정 가능한 리포트로 만들기"),
         ("Projects", data["projects"]),
         ("Stack", data["stack"]),
         ("Portfolio", data["portfolio"]),
@@ -236,12 +262,12 @@ def build_terminal_lines(data):
 def svg_text(text, x, y, fill, size=15, weight="400"):
     return (
         f'<text x="{x}" y="{y}" fill="{fill}" font-size="{size}" '
-        f'font-weight="{weight}" font-family="Consolas, Menlo, Monaco, monospace">'
-        f"{escape(text)}</text>"
+        "font-family=\"'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace\" "
+        f'font-weight="{weight}">{escape(text)}</text>'
     )
 
 
-def wrap_value(label, value, max_len=48):
+def wrap_value(label, value, max_len=42):
     if len(value) <= max_len:
         return [(label, value)]
     wrapped = textwrap.wrap(value, max_len)
@@ -250,61 +276,65 @@ def wrap_value(label, value, max_len=48):
 
 def render_svg(data, theme):
     if theme == "dark":
-        bg = "#0d1117"
-        panel = "#161b22"
-        border = "#30363d"
-        text = "#c9d1d9"
-        muted = "#8b949e"
-        accent = "#58a6ff"
-        key = "#7ee787"
-        avatar = "#f778ba"
-        shadow = "#010409"
+        bg = "#0f1117"
+        panel = "#171a21"
+        border = "#343844"
+        text = "#e6edf3"
+        muted = "#9aa4b2"
+        accent = "#ff8fb3"
+        key = "#a7f3d0"
+        avatar = "#ffd166"
+        shadow = "#050608"
+        chip_bg = "#242936"
     else:
-        bg = "#f6f8fa"
+        bg = "#fff8fb"
         panel = "#ffffff"
-        border = "#d0d7de"
-        text = "#24292f"
-        muted = "#57606a"
-        accent = "#0969da"
-        key = "#1a7f37"
-        avatar = "#8250df"
-        shadow = "#d8dee4"
+        border = "#ead7df"
+        text = "#24212a"
+        muted = "#766b75"
+        accent = "#d6336c"
+        key = "#087f5b"
+        avatar = "#7c3aed"
+        shadow = "#efdde5"
+        chip_bg = "#fff0f5"
 
-    width = 900
-    height = 500
+    width = 960
+    height = 560
     parts = [
-        f'<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">',
-        f'<rect width="{width}" height="{height}" rx="18" fill="{bg}"/>',
-        f'<rect x="20" y="20" width="{width - 40}" height="{height - 40}" rx="16" fill="{shadow}" opacity="0.22"/>',
-        f'<rect x="16" y="16" width="{width - 40}" height="{height - 40}" rx="16" fill="{panel}" stroke="{border}"/>',
-        f'<circle cx="45" cy="43" r="7" fill="#ff5f56"/><circle cx="68" cy="43" r="7" fill="#ffbd2e"/><circle cx="91" cy="43" r="7" fill="#27c93f"/>',
-        svg_text("tami-bang neofetch", 118, 49, muted, 13),
+        f'<svg width="100%" height="auto" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">',
+        f'<rect width="{width}" height="{height}" rx="24" fill="{bg}"/>',
+        f'<rect x="30" y="32" width="{width - 60}" height="{height - 66}" rx="22" fill="{shadow}" opacity="0.42"/>',
+        f'<rect x="22" y="24" width="{width - 60}" height="{height - 66}" rx="22" fill="{panel}" stroke="{border}" stroke-width="1.5"/>',
+        f'<circle cx="55" cy="54" r="7" fill="#ff5f56"/><circle cx="78" cy="54" r="7" fill="#ffbd2e"/><circle cx="101" cy="54" r="7" fill="#27c93f"/>',
+        svg_text("tami-os --profile --cute-but-practical", 128, 60, muted, 13),
+        f'<rect x="42" y="82" width="286" height="390" rx="18" fill="{chip_bg}" stroke="{border}"/>',
+        svg_text("profile.photo --ascii", 66, 112, accent, 15, "700"),
     ]
 
-    y = 92
+    y = 146
     for line in data["avatar"]:
-        parts.append(svg_text(line, 52, y, avatar, 15, "700"))
+        parts.append(svg_text(line, 62, y, avatar, 14, "700"))
         y += 18
 
     x = 370
-    y = 90
+    y = 102
     for item in build_terminal_lines(data):
-        if len(item) == 2 and item[1] in {"accent", "muted"}:
+        if len(item) == 2 and item[1] in {"title", "muted"}:
             value, style = item
-            fill = accent if style == "accent" else muted
-            parts.append(svg_text(value, x, y, fill, 16, "700" if style == "accent" else "400"))
-            y += 21
+            fill = accent if style == "title" else muted
+            parts.append(svg_text(value, x, y, fill, 17, "800" if style == "title" else "400"))
+            y += 24
             continue
 
         label, value = item
         for sub_label, sub_value in wrap_value(label, str(value)):
             if sub_label:
-                parts.append(svg_text(f"{sub_label:>10}", x, y, key, 14, "700"))
-                parts.append(svg_text(":", x + 86, y, muted, 14))
-                parts.append(svg_text(sub_value, x + 102, y, text, 14))
+                parts.append(svg_text(f"{sub_label:>10}", x, y, key, 14, "800"))
+                parts.append(svg_text(":", x + 96, y, muted, 14))
+                parts.append(svg_text(sub_value, x + 112, y, text, 14))
             else:
-                parts.append(svg_text(sub_value, x + 102, y, text, 14))
-            y += 21
+                parts.append(svg_text(sub_value, x + 112, y, text, 14))
+            y += 22
 
     parts.append("</svg>")
     return "\n".join(parts)

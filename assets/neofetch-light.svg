@@ -1,72 +1,85 @@
-<svg width="900" height="500" viewBox="0 0 900 500" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="900" height="500" rx="18" fill="#f6f8fa"/>
-<rect x="20" y="20" width="860" height="460" rx="16" fill="#d8dee4" opacity="0.22"/>
-<rect x="16" y="16" width="860" height="460" rx="16" fill="#ffffff" stroke="#d0d7de"/>
-<circle cx="45" cy="43" r="7" fill="#ff5f56"/><circle cx="68" cy="43" r="7" fill="#ffbd2e"/><circle cx="91" cy="43" r="7" fill="#27c93f"/>
-<text x="118" y="49" fill="#57606a" font-size="13" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">tami-bang neofetch</text>
-<text x="52" y="92" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+*==*+====-++++++==-====----</text>
-<text x="52" y="110" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+*==#*=====+++=+======::::--</text>
-<text x="52" y="128" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">=*=-**====+*++=++=+=+=--::--</text>
-<text x="52" y="146" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">=*+-+*====+****#**+=+=---===</text>
-<text x="52" y="164" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">=*+=+*+===+##%@@@@%#+=======</text>
-<text x="52" y="182" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+*+-=++===#######*%%#+======</text>
-<text x="52" y="200" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+#+-=+=--#%%%%#**+#%%%++++++</text>
-<text x="52" y="218" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">*#+=+*++*@@@#+==--+*%@*+++++</text>
-<text x="52" y="236" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+**=+#**%@@@+:::--:=@@#+++*+</text>
-<text x="52" y="254" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+##**%%#@@@@@+==++*%@%*+++**</text>
-<text x="52" y="272" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">****#%%#%%%%@#==+%@@@%#*****</text>
-<text x="52" y="290" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">****#%%#%%%@%+--*@@%%%*--:-+</text>
-<text x="52" y="308" fill="#8250df" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+**+*##%%%@%+--=#@%%@@*.....</text>
-<text x="370" y="90" fill="#0969da" font-size="16" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">tami-bang@github</text>
-<text x="370" y="111" fill="#57606a" font-size="16" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">-------------------------------</text>
-<text x="370" y="132" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">        OS</text>
-<text x="456" y="132" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="132" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">GitHub Profile / neofetch-kor</text>
-<text x="370" y="153" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">      Host</text>
-<text x="456" y="153" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="153" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">GitHub Profile README</text>
-<text x="370" y="174" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">      Name</text>
-<text x="456" y="174" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="174" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">Tami Bang</text>
-<text x="370" y="195" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">      Role</text>
-<text x="456" y="195" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="195" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">AI · Backend · Security</text>
-<text x="370" y="216" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">       Age</text>
-<text x="456" y="216" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="216" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">비공개</text>
-<text x="370" y="237" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">    Uptime</text>
-<text x="456" y="237" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="237" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">문제를 시스템으로 바꾸는 중</text>
-<text x="370" y="258" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">     Repos</text>
-<text x="456" y="258" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="258" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">12</text>
-<text x="370" y="279" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">   Commits</text>
-<text x="456" y="279" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="279" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">322</text>
-<text x="370" y="300" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">     Stars</text>
-<text x="456" y="300" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="300" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">0</text>
-<text x="370" y="321" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace"> Followers</text>
-<text x="456" y="321" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="321" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">5</text>
-<text x="370" y="342" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">Code Lines</text>
-<text x="456" y="342" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="342" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">340,333</text>
-<text x="370" y="363" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">  Projects</text>
-<text x="456" y="363" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="363" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">JobKorea Job Radar · GateGuard · Health AI</text>
-<text x="472" y="384" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">Search API</text>
-<text x="370" y="405" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">     Stack</text>
-<text x="456" y="405" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="405" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">Python · FastAPI · Selenium · SQLite · Pandas ·</text>
-<text x="472" y="426" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">C · Next.js</text>
-<text x="370" y="447" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace"> Portfolio</text>
-<text x="456" y="447" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="447" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">https://tami-bang.github.io/</text>
-<text x="370" y="468" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">     Email</text>
-<text x="456" y="468" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="468" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">vjihyunbangv@gmail.com</text>
-<text x="370" y="489" fill="#1a7f37" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">   Updated</text>
-<text x="456" y="489" fill="#57606a" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="489" fill="#24292f" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">2026-06-07 13:00 UTC</text>
+<svg width="100%" height="auto" viewBox="0 0 960 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="960" height="560" rx="24" fill="#fff8fb"/>
+<rect x="30" y="32" width="900" height="494" rx="22" fill="#efdde5" opacity="0.42"/>
+<rect x="22" y="24" width="900" height="494" rx="22" fill="#ffffff" stroke="#ead7df" stroke-width="1.5"/>
+<circle cx="55" cy="54" r="7" fill="#ff5f56"/><circle cx="78" cy="54" r="7" fill="#ffbd2e"/><circle cx="101" cy="54" r="7" fill="#27c93f"/>
+<text x="128" y="60" fill="#766b75" font-size="13" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">tami-os --profile --cute-but-practical</text>
+<rect x="42" y="82" width="286" height="390" rx="18" fill="#fff0f5" stroke="#ead7df"/>
+<text x="66" y="112" fill="#d6336c" font-size="15" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">profile.photo --ascii</text>
+<text x="62" y="146" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+*+-=**+====--+*+++++===--=====----:</text>
+<text x="62" y="164" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+**=+##+======++++=++====-==----:---</text>
+<text x="62" y="182" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+*+--*#*=====+++++=++=+===+=::::::--</text>
+<text x="62" y="200" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">-+*--+#*=====+**++==+==++=+=---::---</text>
+<text x="62" y="218" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">-+*=-+*+=-===+**+++**+++==+=-----===</text>
+<text x="62" y="236" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">=+*=-+*+=====+**##%@%%%#*++==--=====</text>
+<text x="62" y="254" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">=**===**++===+###%%@@@@@%#+=========</text>
+<text x="62" y="272" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+**=-=+++====#########*#%##+========</text>
+<text x="62" y="290" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+**=--++=---#%%%%%#***+###%#++++++++</text>
+<text x="62" y="308" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+##+==+*===+%%%%@%%**+=*%%@@#+++++++</text>
+<text x="62" y="326" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+**+==***++%@@@%+==--:-=+*@@%+++++++</text>
+<text x="62" y="344" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+**+=+*#**#@%@@#-:::---::=@@%++++**+</text>
+<text x="62" y="362" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+*#*+*####%@@@@@+---===-=%@@#++++**+</text>
+<text x="62" y="380" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+*##**#%%#%@@@@@@*===++#@@@%#*+++***</text>
+<text x="62" y="398" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">**#***%%%##%%%%@@*=+++%@@@@%%##*##**</text>
+<text x="62" y="416" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">*#***##%%##%%%%@%+---*@@@@@%#++===+*</text>
+<text x="62" y="434" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">******#%##%%%%@@*=--+%@@%%%%%+....:-</text>
+<text x="62" y="452" fill="#7c3aed" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="700">+**+=+##%%@@%@%+=---*%@%@@@@#:......</text>
+<text x="370" y="102" fill="#d6336c" font-size="17" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">tami-bang@TamiOS</text>
+<text x="370" y="126" fill="#766b75" font-size="17" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">------------------------------------</text>
+<text x="370" y="150" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">        OS</text>
+<text x="466" y="150" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="150" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">TamiOS / profile edition</text>
+<text x="370" y="172" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">      Host</text>
+<text x="466" y="172" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="172" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">GitHub Profile README</text>
+<text x="370" y="194" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">      Name</text>
+<text x="466" y="194" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="194" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">Tami Bang</text>
+<text x="370" y="216" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">      Role</text>
+<text x="466" y="216" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="216" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">AI · Backend · Security</text>
+<text x="370" y="238" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">       Age</text>
+<text x="466" y="238" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="238" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">비공개</text>
+<text x="370" y="260" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">      Mood</text>
+<text x="466" y="260" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="260" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">조용히 집요하게, 끝까지 만드는 타입</text>
+<text x="370" y="282" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">  Boot Log</text>
+<text x="466" y="282" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="282" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">코드, 기록, 포트폴리오를 한 흐름으로 연결하는 중</text>
+<text x="370" y="304" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">     Repos</text>
+<text x="466" y="304" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="304" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">0</text>
+<text x="370" y="326" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">   Commits</text>
+<text x="466" y="326" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="326" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">323</text>
+<text x="370" y="348" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">     Stars</text>
+<text x="466" y="348" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="348" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">0</text>
+<text x="370" y="370" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800"> Followers</text>
+<text x="466" y="370" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="370" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">0</text>
+<text x="370" y="392" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">Code Lines</text>
+<text x="466" y="392" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="392" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">0</text>
+<text x="370" y="414" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">Main Quest</text>
+<text x="466" y="414" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="414" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">데이터를 모아 의사결정 가능한 리포트로 만들기</text>
+<text x="370" y="436" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">  Projects</text>
+<text x="466" y="436" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="436" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">JobKorea Job Radar · GateGuard · Health AI</text>
+<text x="482" y="458" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">Search API</text>
+<text x="370" y="480" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">     Stack</text>
+<text x="466" y="480" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="480" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">Python · FastAPI · Selenium · SQLite ·</text>
+<text x="482" y="502" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">Pandas · C · Next.js</text>
+<text x="370" y="524" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800"> Portfolio</text>
+<text x="466" y="524" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="524" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">https://tami-bang.github.io/</text>
+<text x="370" y="546" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">     Email</text>
+<text x="466" y="546" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="546" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">vjihyunbangv@gmail.com</text>
+<text x="370" y="568" fill="#087f5b" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="800">   Updated</text>
+<text x="466" y="568" fill="#766b75" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">:</text>
+<text x="482" y="568" fill="#24212a" font-size="14" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', Consolas, Menlo, monospace" font-weight="400">2026-06-07 13:03 UTC</text>
 </svg>
