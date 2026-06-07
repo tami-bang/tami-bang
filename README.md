@@ -17,9 +17,6 @@
   <a href="https://tami-bang.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%BC%80%EC%9D%B4%EC%8A%A4%EC%8A%A4%ED%84%B0%EB%94%94_%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0-111111?style=for-the-badge"/>
   </a>
-  <a href="mailto:vjihyunbangv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vjihyunbangv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
