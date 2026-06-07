@@ -4,11 +4,9 @@
   />
 </p>
 
-<h3 align="center">👋 Hello, I'm Tami</h3>
-
 <p align="center">
   <b>문제를 코드로 해결하고, 시스템으로 증명합니다</b><br/>
-  데이터 수집 → 백엔드 설계 → AI 분석 → 리포트 자동화까지 끝까지 연결합니다
+  데이터를 모으고, 흐름을 설계하고, 결과를 설명 가능한 형태로 남깁니다.
 </p>
 
 <p align="center">
@@ -20,89 +18,63 @@
 
 ---
 
-## 🌷 Projects
+## 🌷 Identity
+
+저는 작은 문제를 그냥 넘기지 않고, 직접 수집하고 정리해서 다시 쓸 수 있는 시스템으로 바꾸는 걸 좋아합니다.  
+요즘은 **채용 데이터 자동화**, **AI 검색 API**, **보안 시스템 흐름**을 중심으로 만들고 공부하고 있습니다.
+
+- 결과만 만드는 것보다, 왜 그런 결과가 나왔는지 설명 가능한 구조를 선호합니다.
+- 크롤링, 저장, 분석, 리포트처럼 끝까지 이어지는 파이프라인을 좋아합니다.
+- 프로젝트를 코드에서 끝내지 않고, 포트폴리오 케이스스터디로 남깁니다.
+
+---
+
+## 🚀 Selected Work
 
 <table>
 <tr>
   <td><b>🤖 JobKorea Job Radar</b></td>
-  <td>잡코리아 공고 수집, 맞춤 점수화, CSV/XLSX 리포트 자동화</td>
-  <td>Python · Selenium · SQLite · Pandas</td>
-  <td>
-    <a href="https://github.com/tami-bang/job_crawler">Repo</a>
-    ·
-    <a href="https://tami-bang.github.io/projects/jobkorea-job-radar">Case</a>
-  </td>
+  <td>잡코리아 공고를 수집하고, 개인 기준으로 점수화해 CSV/XLSX 리포트로 정리하는 채용 자동화 프로젝트</td>
+  <td><a href="https://github.com/tami-bang/job_crawler">Repo</a> · <a href="https://tami-bang.github.io/projects/jobkorea-job-radar">Case</a></td>
 </tr>
-
 <tr>
   <td><b>🔐 GateGuard</b></td>
-  <td>패킷 캡처부터 AI 판단, 차단 응답, 관리자 로그까지 연결한 웹 접근 제어 시스템</td>
-  <td>C · FastAPI · libpcap · MariaDB</td>
+  <td>패킷 캡처, 정책 판단, AI 분석, 차단 응답, 관리자 로그를 연결한 웹 접근 제어 시스템</td>
   <td><a href="https://github.com/tami-bang/GateGuard">Repo</a></td>
 </tr>
-
 <tr>
   <td><b>🏥 Health AI Search</b></td>
-  <td>증상 기반 의료 정보 검색 및 LLM 응답 API</td>
-  <td>FastAPI · NLP · LLM</td>
+  <td>증상 입력을 기반으로 의료 정보를 검색하고 LLM 응답까지 이어지는 헬스케어 검색 API</td>
   <td><a href="https://github.com/tami-bang/health-ai-search-api">Repo</a></td>
 </tr>
-
-<tr>
-  <td><b>🛒 Next Shop</b></td>
-  <td>Next.js 기반 쇼핑몰 프론트엔드</td>
-  <td>Next.js · TypeScript</td>
-  <td><a href="https://github.com/tami-bang/next-shop-frontend">Repo</a></td>
-</tr>
 </table>
 
 ---
 
-## 🧠 Stack
+## 📝 Build Log
 
-<table>
-  <tr>
-    <td><b>Backend / AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LLM-000000?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data / Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-      <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>System / Network</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/libpcap-000000?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Packet_Analysis-1E90FF?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+| Period | Type | Note |
+|---|---|---|
+| 2026.06 | Automation | JobKorea 수집, 상세 보강, 매칭 리포트 파이프라인 개선 |
+| 2026.06 | Portfolio | 프로젝트를 README와 GitHub Pages 케이스스터디로 연결 |
+| 2026.06 | Data Quality | 마감일, 지역, 중복, 상세 수집 상태를 점검하는 흐름 정리 |
+| Ongoing | Study | Backend, AI 검색, 보안 시스템을 작게 만들고 기록하는 중 |
 
 ---
 
-## ✨ Focus
+## 🧰 Current Toolbox
 
-- 수집한 데이터를 정규화하고, 중복과 누락을 점검하는 파이프라인을 선호합니다.
-- 점수화나 추천 로직은 결과뿐 아니라 이유까지 설명 가능하게 설계합니다.
-- 프로젝트를 코드에서 끝내지 않고, 포트폴리오 케이스스터디로 정리합니다.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
 ---
 
@@ -127,18 +99,9 @@
 
 ## 📫 Contact
 
-<table>
-<tr>
-  <td>
-    <a href="mailto:vjihyunbangv@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-    </a>
-  </td>
-  <td>
-    vjihyunbangv@gmail.com
-  </td>
-</tr>
-</table>
+<a href="mailto:vjihyunbangv@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vjihyunbangv%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
@@ -146,7 +109,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tami-bang&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/tami-bang?cache_bust=1"
-      width="70%"
+      width="62%"
       alt="Tami GitAnimals farm"
     />
   </a>
