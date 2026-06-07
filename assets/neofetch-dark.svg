@@ -4,19 +4,19 @@
 <rect x="16" y="16" width="860" height="460" rx="16" fill="#161b22" stroke="#30363d"/>
 <circle cx="45" cy="43" r="7" fill="#ff5f56"/><circle cx="68" cy="43" r="7" fill="#ffbd2e"/><circle cx="91" cy="43" r="7" fill="#27c93f"/>
 <text x="118" y="49" fill="#8b949e" font-size="13" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">tami-bang neofetch</text>
-<text x="52" y="92" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+*==**====-++++++==-====----</text>
+<text x="52" y="92" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+*==*+====-++++++==-====----</text>
 <text x="52" y="110" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+*==#*=====+++=+======::::--</text>
 <text x="52" y="128" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">=*=-**====+*++=++=+=+=--::--</text>
-<text x="52" y="146" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">=*+=+*====+****#**+=+=---===</text>
+<text x="52" y="146" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">=*+-+*====+****#**+=+=---===</text>
 <text x="52" y="164" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">=*+=+*+===+##%@@@@%#+=======</text>
 <text x="52" y="182" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+*+-=++===#######*%%#+======</text>
-<text x="52" y="200" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+#+-=++--#%%%%#**+#%%%++++++</text>
+<text x="52" y="200" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+#+-=+=--#%%%%#**+#%%%++++++</text>
 <text x="52" y="218" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">*#+=+*++*@@@#+==--+*%@*+++++</text>
 <text x="52" y="236" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+**=+#**%@@@+:::--:=@@#+++*+</text>
 <text x="52" y="254" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+##**%%#@@@@@+==++*%@%*+++**</text>
-<text x="52" y="272" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">****#%%#%%%@@#==+%@@@%##****</text>
+<text x="52" y="272" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">****#%%#%%%%@#==+%@@@%#*****</text>
 <text x="52" y="290" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">****#%%#%%%@%+--*@@%%%*--:-+</text>
-<text x="52" y="308" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+**+*#%%@@@%+--=#@%@@@*.....</text>
+<text x="52" y="308" fill="#f778ba" font-size="15" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">+**+*##%%%@%+--=#@%%@@*.....</text>
 <text x="370" y="90" fill="#58a6ff" font-size="16" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">tami-bang@github</text>
 <text x="370" y="111" fill="#8b949e" font-size="16" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">-------------------------------</text>
 <text x="370" y="132" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">        OS</text>
@@ -39,19 +39,19 @@
 <text x="472" y="237" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">문제를 시스템으로 바꾸는 중</text>
 <text x="370" y="258" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">     Repos</text>
 <text x="456" y="258" fill="#8b949e" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="258" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">0</text>
+<text x="472" y="258" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">12</text>
 <text x="370" y="279" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">   Commits</text>
 <text x="456" y="279" fill="#8b949e" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="279" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">321</text>
+<text x="472" y="279" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">322</text>
 <text x="370" y="300" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">     Stars</text>
 <text x="456" y="300" fill="#8b949e" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
 <text x="472" y="300" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">0</text>
 <text x="370" y="321" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace"> Followers</text>
 <text x="456" y="321" fill="#8b949e" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="321" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">0</text>
+<text x="472" y="321" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">5</text>
 <text x="370" y="342" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">Code Lines</text>
 <text x="456" y="342" fill="#8b949e" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="342" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">0</text>
+<text x="472" y="342" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">340,333</text>
 <text x="370" y="363" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">  Projects</text>
 <text x="456" y="363" fill="#8b949e" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
 <text x="472" y="363" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">JobKorea Job Radar · GateGuard · Health AI</text>
@@ -68,5 +68,5 @@
 <text x="472" y="468" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">vjihyunbangv@gmail.com</text>
 <text x="370" y="489" fill="#7ee787" font-size="14" font-weight="700" font-family="Consolas, Menlo, Monaco, monospace">   Updated</text>
 <text x="456" y="489" fill="#8b949e" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">:</text>
-<text x="472" y="489" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">2026-06-07 12:57 UTC</text>
+<text x="472" y="489" fill="#c9d1d9" font-size="14" font-weight="400" font-family="Consolas, Menlo, Monaco, monospace">2026-06-07 13:00 UTC</text>
 </svg>
