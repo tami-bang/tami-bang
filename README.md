@@ -4,6 +4,16 @@
   />
 </p>
 
+```text
+ _______   ___      __  __   ___
+|__   __| / _ \    |  \/  | |_ _|
+   | |   / /_\ \   | |\/| |  | |
+   | |  /  _  \   | |  | |  | |
+   |_| /_/   \_\  |_|  |_| |___|
+
+small problems -> working systems -> written stories
+```
+
 <p align="center">
   <b>문제를 코드로 해결하고, 시스템으로 증명합니다</b><br/>
   데이터를 모으고, 흐름을 설계하고, 결과를 설명 가능한 형태로 남깁니다.
@@ -23,42 +33,52 @@
 저는 작은 문제를 그냥 넘기지 않고, 직접 수집하고 정리해서 다시 쓸 수 있는 시스템으로 바꾸는 걸 좋아합니다.  
 요즘은 **채용 데이터 자동화**, **AI 검색 API**, **보안 시스템 흐름**을 중심으로 만들고 공부하고 있습니다.
 
-- 결과만 만드는 것보다, 왜 그런 결과가 나왔는지 설명 가능한 구조를 선호합니다.
-- 크롤링, 저장, 분석, 리포트처럼 끝까지 이어지는 파이프라인을 좋아합니다.
-- 프로젝트를 코드에서 끝내지 않고, 포트폴리오 케이스스터디로 남깁니다.
+| I care about | How it shows up |
+|---|---|
+| 설명 가능한 결과 | 점수, 추천, 리포트에 이유와 근거를 같이 남깁니다. |
+| 다시 실행 가능한 흐름 | 수집, 저장, 분석, 출력, 검증을 하나의 파이프라인으로 연결합니다. |
+| 기록되는 성장 | 만든 것을 코드에서 끝내지 않고 포트폴리오 케이스스터디로 정리합니다. |
+
+---
+
+## 📝 Build Log
+
+| Period | Type | What changed |
+|---|---|---|
+| 2026.06 | Automation | JobKorea 수집, 상세 보강, 매칭 리포트 파이프라인을 개선했습니다. |
+| 2026.06 | Portfolio | [job_crawler](https://github.com/tami-bang/job_crawler)를 [GitHub Pages 케이스스터디](https://tami-bang.github.io/projects/jobkorea-job-radar)로 연결했습니다. |
+| 2026.06 | Data Quality | 마감일, 지역, 중복, 상세 수집 상태를 점검하는 기준을 정리했습니다. |
+| Ongoing | Study | Backend, AI 검색, 보안 시스템을 작게 만들고 기록하는 중입니다. |
 
 ---
 
 ## 🚀 Selected Work
 
 <table>
-<tr>
-  <td><b>🤖 JobKorea Job Radar</b></td>
-  <td>잡코리아 공고를 수집하고, 개인 기준으로 점수화해 CSV/XLSX 리포트로 정리하는 채용 자동화 프로젝트</td>
-  <td><a href="https://github.com/tami-bang/job_crawler">Repo</a> · <a href="https://tami-bang.github.io/projects/jobkorea-job-radar">Case</a></td>
-</tr>
-<tr>
-  <td><b>🔐 GateGuard</b></td>
-  <td>패킷 캡처, 정책 판단, AI 분석, 차단 응답, 관리자 로그를 연결한 웹 접근 제어 시스템</td>
-  <td><a href="https://github.com/tami-bang/GateGuard">Repo</a></td>
-</tr>
-<tr>
-  <td><b>🏥 Health AI Search</b></td>
-  <td>증상 입력을 기반으로 의료 정보를 검색하고 LLM 응답까지 이어지는 헬스케어 검색 API</td>
-  <td><a href="https://github.com/tami-bang/health-ai-search-api">Repo</a></td>
-</tr>
+  <tr>
+    <th width="24%" align="left">Project</th>
+    <th width="52%" align="left">Story</th>
+    <th width="24%" align="left">Links</th>
+  </tr>
+  <tr>
+    <td><b>🤖 JobKorea Job Radar</b></td>
+    <td>잡코리아 공고를 수집하고, 개인 기준으로 점수화해 CSV/XLSX 리포트로 정리하는 채용 자동화 프로젝트입니다.</td>
+    <td>
+      <a href="https://github.com/tami-bang/job_crawler">Repo</a> ·
+      <a href="https://tami-bang.github.io/projects/jobkorea-job-radar">Case</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔐 GateGuard</b></td>
+    <td>패킷 캡처, 정책 판단, AI 분석, 차단 응답, 관리자 로그를 연결한 웹 접근 제어 시스템입니다.</td>
+    <td><a href="https://github.com/tami-bang/GateGuard">Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>🏥 Health AI Search</b></td>
+    <td>증상 입력을 기반으로 의료 정보를 검색하고 LLM 응답까지 이어지는 헬스케어 검색 API입니다.</td>
+    <td><a href="https://github.com/tami-bang/health-ai-search-api">Repo</a></td>
+  </tr>
 </table>
-
----
-
-## 📝 Build Log
-
-| Period | Type | Note |
-|---|---|---|
-| 2026.06 | Automation | JobKorea 수집, 상세 보강, 매칭 리포트 파이프라인 개선 |
-| 2026.06 | Portfolio | 프로젝트를 README와 GitHub Pages 케이스스터디로 연결 |
-| 2026.06 | Data Quality | 마감일, 지역, 중복, 상세 수집 상태를 점검하는 흐름 정리 |
-| Ongoing | Study | Backend, AI 검색, 보안 시스템을 작게 만들고 기록하는 중 |
 
 ---
 
