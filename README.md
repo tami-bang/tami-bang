@@ -37,6 +37,7 @@
 |---|---|---|
 | 2026.06 | Automation | JobKorea 수집, 상세 보강, 매칭 리포트 파이프라인을 개선했습니다. |
 | 2026.06 | Portfolio | [job_crawler](https://github.com/tami-bang/job_crawler)를 [GitHub Pages 케이스스터디](https://tami-bang.github.io/projects/jobkorea-job-radar)로 연결했습니다. |
+| 2026.06 | QA Internship | [PCFILTER QA 인턴 경험](https://github.com/tami-bang/pcfilter-qa-internship)을 공개 가능한 Work Sample로 정리했습니다. |
 | 2026.06 | Data Quality | 마감일, 지역, 중복, 상세 수집 상태를 점검하는 기준을 정리했습니다. |
 | Ongoing | Study | Backend, AI 검색, 보안 시스템을 작게 만들고 기록하는 중입니다. |
 
@@ -56,6 +57,14 @@
     <td>
       <a href="https://github.com/tami-bang/job_crawler">Repo</a> ·
       <a href="https://tami-bang.github.io/projects/jobkorea-job-radar">Case</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧪 PCFILTER QA Internship</b></td>
+    <td>8주 QA 인턴 경험을 테스트 전략, 버그 리포트, 체크리스트, 자동화 샘플로 재구성한 공개용 Work Sample입니다.</td>
+    <td>
+      <a href="https://github.com/tami-bang/pcfilter-qa-internship">Repo</a> ·
+      <a href="https://tami-bang.github.io/projects/pcfilter-qa-case-study">Case</a>
     </td>
   </tr>
   <tr>
